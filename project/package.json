@@ -4,7 +4,7 @@
   "description": "Georgia Institute of Technology - MUSI 6104, Spring 2020",
   "dependencies": {
     "express": "^4.15.2",
-    "jsdom": "^16.2.2",
+    "jsdom": "^16.5.0",
     "smpte-timecode": "^1.2.3",
     "socket.io": "^1.7.4",
     "socket.io-client": "^2.3.0"
