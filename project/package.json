@@ -6,8 +6,8 @@
     "express": "^4.15.2",
     "jsdom": "^16.2.2",
     "smpte-timecode": "^1.2.3",
-    "socket.io": "^1.7.4",
-    "socket.io-client": "^2.3.0"
+    "socket.io": "^4.5.3",
+    "socket.io-client": "^2.5.0"
   },
   "scripts": {
     "start": "node main.js"
